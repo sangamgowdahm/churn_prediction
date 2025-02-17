@@ -6,4 +6,3 @@ streamlit
 numpy
 matplotlib
 ipykernel
-pickle
